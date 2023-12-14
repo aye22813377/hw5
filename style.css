@@ -1,0 +1,18 @@
+body{
+    margin-left:20px;
+    background-color: rgb(240, 238, 238);
+}
+i{
+    font-size: small;
+}
+hr{
+    border-top: 1px solid black;
+}
+div{
+    width: 350px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+.cntr{
+    text-align: center;
+}
